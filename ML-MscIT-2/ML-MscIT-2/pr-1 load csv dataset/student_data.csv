@@ -1,0 +1,6 @@
+Student_ID,Age,Gender,Math_Score,Science_Score,English_Score,Passed
+1,15,Male,78,85,80,Yes
+2,16,Female,82,NaN,88,Yes
+3,15,NaN,75,80,72,Yes
+4,17,Male,NaN,78,75,Yes
+5,16,Female,65,70,NaN,No
